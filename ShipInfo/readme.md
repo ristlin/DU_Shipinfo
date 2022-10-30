@@ -2,6 +2,8 @@
 # SHIP INFO
 ![image](https://user-images.githubusercontent.com/93654396/152546655-1ff442e4-1ae7-434b-bbdd-e1bbcb886ff9.png)
 
+Forked from Krengus/DU_ASTco
+
 ## INSTALLATION
 Link core, databank, screen(s) and hub(s) in any order.
 Configure max capacity for hubs linked
@@ -26,6 +28,9 @@ Features:
 ![image](https://user-images.githubusercontent.com/93654396/148828635-d335d96a-49cf-42af-b739-a87f0670adb7.png)
 
 ## ShipInfo Changelog
+
+### v0.71
+Few fixes for launch. Updated depreciated code and added a stop() function.
 
 ### v0.7
 Updated for Mercury
