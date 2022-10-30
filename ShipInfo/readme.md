@@ -29,8 +29,8 @@ Features:
 
 ## ShipInfo Changelog
 
-### v0.71
-Few fixes for launch. Updated depreciated code and added a stop() function.
+### v0.72
+Few fixes for launch. Updated depreciated code and added a stop() function that can be controlled with new parameter.
 
 ### v0.7
 Updated for Mercury
